@@ -4,7 +4,7 @@
 
 - Creating the Database Relationships
 
-[SQL Query](https://github.com/Jen-Dean/sql-challenge/blob/main/EmployeeSQL/Original_Set_Up_Schema/create_tables_sql.sql)
+![DIAGRAM HERE](https://github.com/Jen-Dean/sql-challenge/blob/main/EmployeeSQL/QDBD_Images/Quick_Database_Diagram.png)
 
 - Exporting the Database Schema
 
